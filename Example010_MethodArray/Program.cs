@@ -2,7 +2,7 @@
 
 int n = array.Length;
 
-int find = 9;
+int find = 51;
 int index = 0;
 
 while (index<n)
